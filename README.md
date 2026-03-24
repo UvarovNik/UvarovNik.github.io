@@ -1,1 +1,8 @@
-# UvarovNik.github.io
+# Уваров Николай
+
+Начинающий специалист в сфере DevOps и cybersecurity с опытом
+автоматизации процессов и настройки IT-инфраструктуры. 
+
+Email: Sunikgo@gmail.com
+
+https://github.com/UvarovNik
