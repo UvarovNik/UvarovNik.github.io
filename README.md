@@ -4,5 +4,3 @@
 автоматизации процессов и настройки IT-инфраструктуры. 
 
 Email: Sunikgo@gmail.com
-
-https://github.com/UvarovNik
